@@ -83,10 +83,10 @@ custom-terminal/
 
 ## Custom Logo
 
-Replace the image:
+Replace the image (if you don't like the default one):
 
 ```
-assets/logo.png
+assets/sample_logo.png
 ```
 
 Recommended:
