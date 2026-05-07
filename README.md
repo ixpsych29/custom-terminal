@@ -1,4 +1,4 @@
-# custom-terminal
+# Customized Terminal - Fastfetch, Kitty, Zsh
 
 Portable terminal setup for **Zsh + Kitty + Fastfetch** with a custom image logo and cross-distro support (Fedora / Ubuntu / Debian).
 
